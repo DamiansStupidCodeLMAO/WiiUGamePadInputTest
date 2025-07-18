@@ -14,4 +14,4 @@ There should be a precompiled WUHB in the Releases section of this repository. I
 
 Grab a copy of [LÖVE Potion](https://github.com/lovebrew/lovepotion) and place the WUHB file at `sdmc:/wiiu/apps/lovepotion/lovepotion.wuhb`. It is required that you use a 3.1.0 build of LÖVE Potion, so you need to grab the binary from GitHub Actions. This may change in the future.
 
-Then, copy the game files from this repo to `sdmc:/wiiu/apps/lovepotion/game/`. Now, you can run the software by launching LÖVE Potion. As far as I'm aware, this is the only method for running this software on "Legacy" CFW. Take this with a grain of salt, as it's untested
+Then, copy the game files from this repo to `sdmc:/wiiu/apps/lovepotion/game/`. Now, you can run the software by launching LÖVE Potion. As far as I'm aware, this is the only method for running this software on "Legacy" CFW, as LÖVE Potion builds elf files. Take this with a grain of salt, as it's untested.
